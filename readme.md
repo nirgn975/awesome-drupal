@@ -38,7 +38,13 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Documentation
 
+- [Installation Guide ](https://www.drupal.org/docs/7/install)
 - [Site Building Guide](https://www.drupal.org/documentation/build)
+- [Administration & Security Guide](https://www.drupal.org/docs/7/administering-drupal-7-site)
+- [Structure Guide](https://www.drupal.org/docs/7/nodes-content-types-and-fields)
+- [Multilingual Guide](https://www.drupal.org/docs/7/multilingual)
+- [Theming Guide](https://www.drupal.org/docs/7/theming)
+- [Mobile Guide](https://www.drupal.org/docs/7/mobile)
 - [API Reference](https://api.drupal.org/api/drupal)
 - [Examples for Developers](https://www.drupal.org/project/examples)
 - [Troubleshooting](https://www.drupal.org/troubleshooting)
@@ -72,8 +78,10 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - [Drupal 8 Basics - LevelUpTuts](https://www.youtube.com/playlist?list=PLLnpHn493BHE9mfp6z5--UowO-6SOzcuI)
 - [Drupal 7 Tutorials - LevelUpTuts](https://www.youtube.com/playlist?list=PL15BE2E8313A4E809)
+- [Decoupled Drupal: When, Why, and How](https://www.youtube.com/watch?v=bLWa3SbEEa8)
+- [Building Modern APIs with RESTful](https://www.youtube.com/playlist?list=PLZOQ_ZMpYrZv8_c7jd_CkO_93-DnyVFY5)
+- [DrupalCon Portland 2013 - Amitai Burstein - Organic Groups \\ Message](https://www.youtube.com/watch?v=XglUUroifsg)
 - [Drupalize Me](https://drupalize.me)
-- [Decoupled Drupal: When, Why, and How](http://www.gizra.com/content/decoupled-drupal-drupalcon-los-angeles)
 
 
 ## Podcasts
