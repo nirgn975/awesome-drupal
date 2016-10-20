@@ -1,6 +1,6 @@
 # Awesome Drupal [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://github.com/nirgn975/awesome-drupal/blob/master/icon-drupal.svg" align="right" width="100">](https://www.drupal.org)
+[<img src="https://raw.githubusercontent.com/nirgn975/awesome-drupal/master/icon-drupal.png" align="right" width="90">](https://www.drupal.org)
 
 > Useful resources for [Drupal](https://www.drupal.org)
 
