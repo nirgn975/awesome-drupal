@@ -1,6 +1,6 @@
 # Awesome Drupal [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://www.drupal.org/sites/all/themes/bluecheese/images/icon-w-drupal.svg" align="right" width="100">](https://www.drupal.org)
+[<img src="https://github.com/nirgn975/awesome-drupal/blob/master/icon-drupal.svg" align="right" width="100">](https://www.drupal.org)
 
 > Useful resources for [Drupal](https://www.drupal.org)
 
@@ -80,7 +80,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Drupal 7 Tutorials - LevelUpTuts](https://www.youtube.com/playlist?list=PL15BE2E8313A4E809)
 - [Decoupled Drupal: When, Why, and How](https://www.youtube.com/watch?v=bLWa3SbEEa8)
 - [Building Modern APIs with RESTful](https://www.youtube.com/playlist?list=PLZOQ_ZMpYrZv8_c7jd_CkO_93-DnyVFY5)
-- [DrupalCon Portland 2013 - Amitai Burstein - Organic Groups \\ Message](https://www.youtube.com/watch?v=XglUUroifsg)
+- [DrupalCon Portland 2013 - Organic Groups \\ Message](https://www.youtube.com/watch?v=XglUUroifsg)
 - [Drupalize Me](https://drupalize.me)
 
 
