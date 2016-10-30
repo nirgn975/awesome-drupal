@@ -1,4 +1,4 @@
-# Awesome Drupal [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Drupal [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status][travis-image]][travis-url]
 
 [<img src="https://raw.githubusercontent.com/nirgn975/awesome-drupal/master/icon-drupal.png" align="right" width="90">](https://www.drupal.org)
 
@@ -54,19 +54,19 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Articles
 
-- [Creating a Dynamic Email Template in Drupal](http://www.gizra.com/content/dynamic-email-template)
-- [Getting started with a Core Initiative](http://www.gizra.com/content/getting-started-with-drupal-core-initiative)
-- [Drupal 8: Migrate Nodes with Attachments Easily](http://www.gizra.com/content/drupal-8-attachment-migration)
-- [Migration Best Practices](http://www.gizra.com/content/migration-best-practices)
-- [Cross-Site Scripting attack detection](http://www.gizra.com/content/xss-attack)
-- [simpleTest with Behat for Drupal 8](http://www.gizra.com/content/simpletest-behat-drupal-8)
-- [Logs, The Easy Way](http://www.gizra.com/content/logs-easy-way)
-- [Todo app with RESTful backend](http://www.gizra.com/content/todo-restful-backend)
-- [Message-subscribe - A New Subscription System](http://www.gizra.com/content/message-subscribe-new-subscription-system)
-- [What is Message module, and its new features](http://www.gizra.com/content/what-message-module-and-its-new-features)
+- [Creating a Dynamic Email Template in Drupal](http://www.gizra.com/content/dynamic-email-template/)
+- [Getting started with a Core Initiative](http://www.gizra.com/content/getting-started-with-drupal-core-initiative/)
+- [Drupal 8: Migrate Nodes with Attachments Easily](http://www.gizra.com/content/drupal-8-attachment-migration/)
+- [Migration Best Practices](http://www.gizra.com/content/migration-best-practices/)
+- [Cross-Site Scripting attack detection](http://www.gizra.com/content/xss-attack/)
+- [simpleTest with Behat for Drupal 8](http://www.gizra.com/content/simpletest-behat-drupal-8/)
+- [Logs, The Easy Way](http://www.gizra.com/content/logs-easy-way/)
+- [Todo app with RESTful backend](http://www.gizra.com/content/todo-restful-backend/)
+- [Message-subscribe - A New Subscription System](http://www.gizra.com/content/message-subscribe-new-subscription-system/)
+- [What is Message module, and its new features](http://www.gizra.com/content/what-message-module-and-its-new-features/)
 - [Message notify - Multilingual email notifications](http://www.gizra.com/content/message-notify-multilingual-email-notifications/)
-- [Data Migration - part 2](http://www.gizra.com/content/data-migration-part-2)
-- [Data Migration - part 1](http://www.gizra.com/content/data-migration-part-1)
+- [Data Migration - part 2](http://www.gizra.com/content/data-migration-part-2/)
+- [Data Migration - part 1](http://www.gizra.com/content/data-migration-part-1/)
 
 
 ## Books
@@ -94,14 +94,14 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Community
 
-- [Reddit](https://www.reddit.com/r/drupal)
+- [Reddit](https://www.reddit.com/r/drupal/)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/drupal)
 - [`@drupal` on Twitter](https://twitter.com/drupal)
 - [`#drupal` on Freenode](http://webchat.freenode.net/?channels=drupal)
 - [`#drupal-contribute` on Freenode](http://webchat.freenode.net/?channels=drupal-contribute)
 - [`#drupal-support` on Freenode](http://webchat.freenode.net/?channels=drupal-support)
-- [Drupal Israel Meetup Group](https://www.meetup.com/Drupal-Israel) *(Hebrew)*
-- [Drupal NYC Meetup Group](https://www.meetup.com/drupalnyc)
+- [Drupal Israel Meetup Group](https://www.meetup.com/Drupal-Israel/) *(Hebrew)*
+- [Drupal NYC Meetup Group](https://www.meetup.com/drupalnyc/)
 
 
 ## Tips
@@ -119,3 +119,6 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Nir Galon](http://nirgn.com) has waived all copyright and related or neighboring rights to this work.
+
+[travis-image]: https://travis-ci.org/nirgn975/awesome-drupal.svg?branch=master
+[travis-url]: https://travis-ci.org/nirgn975/awesome-drupal
