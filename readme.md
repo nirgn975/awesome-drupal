@@ -94,7 +94,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Community
 
-- [Reddit](https://www.reddit.com/r/drupa/l)
+- [Reddit](https://www.reddit.com/r/drupal/)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/drupal)
 - [`@drupal` on Twitter](https://twitter.com/drupal)
 - [`#drupal` on Freenode](http://webchat.freenode.net/?channels=drupal)
