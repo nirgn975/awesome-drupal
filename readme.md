@@ -126,9 +126,9 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Tips
 
-- [Solr Script] - A handy script to install Apache Solr.
+- [Solr Script](https://github.com/RoySegall/solr-script) - A handy script to install Apache Solr.
 - [Ubuntu development environment setup](https://github.com/Gizra/KnowledgeBase/wiki/Ubuntu-and-development-environment-setup) - Provides steps for configuring ubuntu so it will be ready for PHP and Drupal development.
-- [MacOS: New Machine configuration] - Provides files and scripts for configuring MacOS for development.
+- [MacOS: New Machine configuration](https://github.com/Gizra/KnowledgeBase/wiki/MacOS:-New-Machine) - Provides files and scripts for configuring MacOS for development.
 
 
 ## Contribute
