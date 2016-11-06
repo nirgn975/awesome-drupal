@@ -13,6 +13,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Modules](#modules)
 - [Documentation](#documentation)
 - [Articles](#articles)
+- [Distributions](#distributions)
 - [Books](#books)
 - [Videos](#videos)
 - [Podcasts](#podcasts)
@@ -82,7 +83,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Data Migration - part 1](http://www.gizra.com/content/data-migration-part-1/)
 
 
-## Distroutions
+## Distributions
 
 - [Commerce kickstart](https://www.drupal.org/project/commerce_kickstart) - Commerce Kickstart is the quickest way to get up and running with Drupal Commerce.
 - [OpenScholar](https://www.drupal.org/project/openscholar) - The easiest way to power all of your institution's websites.
