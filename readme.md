@@ -82,6 +82,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Message notify - Multilingual email notifications](http://www.gizra.com/content/message-notify-multilingual-email-notifications/)
 - [Data Migration - part 2](http://www.gizra.com/content/data-migration-part-2/)
 - [Data Migration - part 1](http://www.gizra.com/content/data-migration-part-1/)
+- [Using composer to set up Drupal 8](https://www.lullabot.com/articles/goodbye-drush-make-hello-composer)
 
 
 ## Distributions
