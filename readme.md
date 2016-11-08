@@ -69,8 +69,6 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 ## Articles
 
 - [Let’s Talk about Decoupled Authentication](http://www.gizra.com/content/restful-access-token/)
-- [How to install Drupal using Composer](http://whaaat.com/installing-drush-9-using-composer)
-- [Using composer to set up Drupal 8](https://www.lullabot.com/articles/goodbye-drush-make-hello-composer)
 - [Creating a Dynamic Email Template in Drupal](http://www.gizra.com/content/dynamic-email-template/)
 - [Getting started with a Core Initiative](http://www.gizra.com/content/getting-started-with-drupal-core-initiative/)
 - [Drupal 8: Migrate Nodes with Attachments Easily](http://www.gizra.com/content/drupal-8-attachment-migration/)
