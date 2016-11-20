@@ -2,7 +2,7 @@
 
 [<img src="https://raw.githubusercontent.com/nirgn975/awesome-drupal/master/icon-drupal.png" align="right" width="90">](https://www.drupal.org)
 
-> [Drupal](https://www.drupal.org) is a free and open source CMS written in PHP and distributed under the GNU General Public License, provides a back-end framework for at least 2.2% of all Web sites worldwide – ranging from personal blogs to corporate, political, and government sites.
+> [Drupal](https://www.drupal.org) is a free and open source CMS written in PHP and distributed under the GNU General Public License, provides a back-end for Web sites worldwide – ranging from personal blogs to corporate, political, and government sites.
 
 You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
