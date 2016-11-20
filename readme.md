@@ -1,8 +1,8 @@
-# Awesome Drupal [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status][travis-image]][travis-url]
+# Awesome Drupal [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://raw.githubusercontent.com/nirgn975/awesome-drupal/master/icon-drupal.png" align="right" width="90">](https://www.drupal.org)
 
-> Useful resources for [Drupal](https://www.drupal.org)
+> [Drupal](https://www.drupal.org) is a free and open source CMS written in PHP and distributed under the GNU General Public License, provides a back-end framework for at least 2.2% of all Web sites worldwide – ranging from personal blogs to corporate, political, and government sites.
 
 You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
@@ -18,6 +18,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Videos](#videos)
 - [Podcasts](#podcasts)
 - [Community](#community)
+- [Tips](#tips)
 
 
 ## Tools
@@ -44,7 +45,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Entity API](https://www.drupal.org/project/entity) - Extends the entity API of Drupal core in order to provide a unified way to deal with entities and their properties.
 - [Entity cache](https://www.drupal.org/project/entitycache) - Puts core entities into Drupal's cache API.
 - [Date](https://www.drupal.org/project/date) - Contains both a flexible date/time field type Date field and a Date API that other modules can use.
-- [Devel](https://www.drupal.org/project/devel) - A suite of modules containing fun for module developers and themers.
+- [Devel](https://www.drupal.org/project/devel) - Suite of modules containing fun for module developers and themers.
 - [Migrate](https://www.drupal.org/project/migrate) - Provides a flexible framework for migrating content into Drupal from other sources.
 - [Entity validator](https://www.drupal.org/project/entity_validator) - Allows you to define a plugin and set methods to validate the object you'r dealing with.
 - [WYSIWYG](https://www.drupal.org/project/wysiwyg) - Allows the use of client-side editors to edit content.
@@ -80,8 +81,8 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Message-subscribe - A New Subscription System](http://www.gizra.com/content/message-subscribe-new-subscription-system/)
 - [What is Message module, and its new features](http://www.gizra.com/content/what-message-module-and-its-new-features/)
 - [Message notify - Multilingual email notifications](http://www.gizra.com/content/message-notify-multilingual-email-notifications/)
-- [Data Migration - part 2](http://www.gizra.com/content/data-migration-part-2/)
 - [Data Migration - part 1](http://www.gizra.com/content/data-migration-part-1/)
+- [Data Migration - part 2](http://www.gizra.com/content/data-migration-part-2/)
 - [How to install Drupal using Composer](http://whaaat.com/installing-drush-9-using-composer)
 - [Using composer to set up Drupal 8](https://www.lullabot.com/articles/goodbye-drush-make-hello-composer)
 
@@ -129,7 +130,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Tips
 
-- [Solr Script](https://github.com/RoySegall/solr-script) - A handy script to install Apache Solr.
+- [Solr Script](https://github.com/RoySegall/solr-script) - Handy script to install Apache Solr.
 - [Ubuntu development environment setup](https://github.com/Gizra/KnowledgeBase/wiki/Ubuntu-and-development-environment-setup) - Provides steps for configuring ubuntu so it will be ready for PHP and Drupal development.
 - [MacOS: New Machine configuration](https://github.com/Gizra/KnowledgeBase/wiki/MacOS:-New-Machine) - Provides files and scripts for configuring MacOS for development.
 
@@ -144,6 +145,3 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Nir Galon](http://nirgn.com) has waived all copyright and related or neighboring rights to this work.
-
-[travis-image]: https://api.travis-ci.org/nirgn975/awesome-drupal.svg?branch=master
-[travis-url]: https://travis-ci.org/nirgn975/awesome-drupal
