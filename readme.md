@@ -64,7 +64,6 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Examples for Developers](https://www.drupal.org/project/examples)
 - [Troubleshooting](https://www.drupal.org/troubleshooting)
 - [The Drupal Cookbook (for beginners)](https://www.drupal.org/documentation/customization/tutorials/beginners-cookbook)
-- [Examples for Developers](https://www.drupal.org/project/examples)
 
 
 ## Articles
