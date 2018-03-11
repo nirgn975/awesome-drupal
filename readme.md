@@ -23,9 +23,9 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Tools
 
+- [Drupal Console](https://drupalconsole.com/) - The Drupal CLI. A tool to generate boilerplate code, interact with and debug Drupal.
 - [DrupalVM](https://www.drupalvm.com/) - Drupal VM makes building Drupal development environments quick and easy, and introduces developers to the wonderful world of Drupal development on virtual machines or Docker containers (instead of crufty old MAMP/WAMP-based development).
 - [Drush](http://www.drush.org/) - Drush is a command line shell and Unix scripting interface for Drupal. Drush core ships with lots of useful commands for interacting with code like modules/themes/profiles. Similarly, it runs update.php, executes sql queries and DB migrations, and misc utilities like run cron or clear cache.
-- [Drupal Console](https://drupalconsole.com/) - The Drupal CLI. A tool to generate boilerplate code, interact with and debug Drupal.
 - [Yo Hedley!](https://github.com/Gizra/generator-hedley) - Scaffold a headless Drupal backend, Angular app client, and Behat tests.
 
 
