@@ -84,6 +84,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 - [Data Migration - part 2](http://www.gizra.com/content/data-migration-part-2/)
 - [How to install Drupal using Composer](http://whaaat.com/installing-drush-9-using-composer)
 - [Using composer to set up Drupal 8](https://www.lullabot.com/articles/goodbye-drush-make-hello-composer)
+- [Drupal Headless Architecture with Inferno.js [Live Demo]](https://snipcart.com/blog/drupal-headless-architecture-tutorial)
 
 
 ## Distributions
